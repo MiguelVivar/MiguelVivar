@@ -45,12 +45,10 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=tuusuario&theme=react&show_icons=true&include_all_commits=true" /> <!-- Reemplaza con tu nombre de usuario de GitHub -->
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&theme=react&layout=compact" /> <!-- Reemplaza con tu nombre de usuario de GitHub -->
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MiguelVivar&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelVivar&theme=react&layout=compact" />
 </p>
 
 ------
 
-[tuusuario](https://github.com/tuusuario) <!-- Reemplaza con tu nombre de usuario de GitHub -->
-
-Última edición el: 31/10/2024
+[MiguelVivar](https://github.com/MiguelVivar) <!-- Reemplaza con tu nombre de usuario de GitHub -->

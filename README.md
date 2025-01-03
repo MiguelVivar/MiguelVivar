@@ -10,7 +10,7 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional San Luis Go
 * 🖥️  Dale un vistado a mi portafolio [https://miguelvivar.github.io/](http://miguelvivar.github.io/)
 * ✉️  Contacto [miguelvivarfarfan@gmail.com](mailto:miguelvivarfarfan@gmail.com)
 * 🤝  Busco colaborar en proyectos frontend o backend
-* ⚡  Me gusta escuchas música mientras programo.
+* ⚡  Me gusta escuchar música mientras programo.
 
 <a href="https://www.github.com/MiguelVivar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MiguelVivar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

@@ -4,13 +4,11 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desarrollador Full-Stack
 -----------------------
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga de Ica y desarrollador frontend apasionado por el diseño web y la programación. Mi enfoque principal está en crear soluciones tecnológicas intuitivas y funcionales, combinando habilidades técnicas y creatividad. Siempre busco crecer profesionalmente, colaborar en equipos dinámicos y compartir conocimientos con la comunidad. Mis intereses incluyen el desarrollo web, la mejora continua de mis habilidades técnicas y la exploración de nuevas herramientas que potencien mi trabajo.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga de Ica y desarrollador FullStack apasionado por el diseño web y la programación. Mi enfoque principal está en crear soluciones tecnológicas intuitivas y funcionales, combinando habilidades técnicas y creatividad. Siempre busco crecer profesionalmente, colaborar en equipos dinámicos y compartir conocimientos con la comunidad. Mis intereses incluyen el desarrollo web, la mejora continua de mis habilidades técnicas y la exploración de nuevas herramientas que potencien mi trabajo.
 
 * 🌍  Soy de Perú
 * 🖥️  Dale un vistado a mi portafolio [https://miguelvivar.github.io/](http://miguelvivar.github.io/)
 * ✉️  Contacto [miguelvivarfarfan@gmail.com](mailto:miguelvivarfarfan@gmail.com)
-* 🤝  Busco colaborar en proyectos frontend o backend
-* ⚡  Me gusta escuchar música mientras programo.
 
 <a href="https://www.github.com/MiguelVivar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MiguelVivar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

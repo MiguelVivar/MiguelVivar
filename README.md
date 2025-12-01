@@ -1,42 +1,88 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)! Mi nombre es Miguel Vivar
-====================================================================================================================================
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Miguel+Vivar;FullStack+Developer;Spring+Boot+%26+Next.js;AI+Automation+%26+n8n" alt="Typing SVG" />
+  </a>
+</div>
 
-Desarrollador Full-Stack
------------------------
+<div align="center">
+  <h3>🚀 Construyendo Software Escalable & Agentes Inteligentes</h3>
+  
+  <p>
+    <a href="https://miguelvivar.engineer/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/miguel-vivar-farfan/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:miguelvivarfarfan@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional San Luis Gonzaga de Ica y desarrollador FullStack apasionado por el diseño web y la programación. Mi enfoque principal está en crear soluciones tecnológicas intuitivas y funcionales, combinando habilidades técnicas y creatividad. Siempre busco crecer profesionalmente, colaborar en equipos dinámicos y compartir conocimientos con la comunidad. Mis intereses incluyen el desarrollo web, la mejora continua de mis habilidades técnicas y la exploración de nuevas herramientas que potencien mi trabajo.
+<br />
 
-* 🌍  Soy de Perú
-* 🖥️  Dale un vistado a mi portafolio [https://www.miguelvivar.engineer/](https://www.miguelvivar.engineer/)
-* ✉️  Contacto [miguelvivarfarfan@gmail.com](mailto:miguelvivarfarfan@gmail.com)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h2>⚡ Sobre Mí</h2>
+        <p>
+          Soy estudiante de <b>Ingeniería de Sistemas (5to Ciclo)</b> en Ica, Perú. Me diferencio por cerrar la brecha entre el desarrollo tradicional y la nueva era de la IA.
+        </p>
+        <p>
+          No solo escribo código; diseño arquitecturas. Desde microservicios robustos en <b>Java Spring Boot</b> hasta interfaces modernas en <b>Next.js</b> y automatización de procesos complejos con <b>n8n</b>.
+        </p>
+        <p>
+          🌱 <b>Actualmente aprendiendo:</b> Kubernetes & Arquitectura Cloud Avanzada.
+        </p>
+      </td>
+      <td valign="top" width="50%">
+        <h2>🧠 Mi Enfoque</h2>
+        <ul>
+          <li>🛠 <b>FullStack:</b> React, Next.js, Node.js, Spring Boot.</li>
+          <li>🤖 <b>AI Engineer:</b> Agentes autónomos, Web Scraping, LLM Integration.</li>
+          <li>☁️ <b>DevOps:</b> Docker, Linux, CI/CD Pipelines.</li>
+          <li>📊 <b>Data:</b> PostgreSQL, MongoDB, Python Analysis.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://www.github.com/MiguelVivar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MiguelVivar?logo=github&style=for-the-badge&color=84cc16&labelColor=171717" /></a>
+<br />
 
-### Habilidades
+<h2 align="center">💻 Arsenales Tecnológicos</h2>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
-</p>
+<div align="center">
+  
+| **Core Frontend** | **Backend & Microservicios** | **AI & Automatización** | **Infraestructura** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,astro,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python&perline=3" /> | <img src="https://skillicons.dev/icons?i=n8n,postman,selenium,bots&perline=3" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,postgres,mongodb,mysql&perline=3" /> |
 
-### Redes Sociales
+</div>
 
-<p align="left"> <a href="https://www.github.com/MiguelVivar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mvivarf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/miguel-vivar-farfán-116058305/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/mvivarf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<br />
 
-### Estadísticas
+<h2 align="center">📊 Actividad en GitHub</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=MiguelVivar&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiguelVivar&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelVivar&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelVivar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelVivar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" alt="languages graph" />
+</div>
 
-## 🏆 Trofeos GitHub
-![](https://github-profile-trophy.vercel.app/?username=MiguelVivar&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelVivar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MiguelVivar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelVivar&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+</div>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelvivar&label=Profile%20views&color=0e75b6&style=flat" alt="miguelvivar" /> </p>
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=miguelvivar&label=Vistas+del+Perfil&color=blue&style=flat-square" alt="views" />
+</div>

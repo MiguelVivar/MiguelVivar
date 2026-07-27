@@ -41,6 +41,19 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/10%2B-Proyectos_entregados-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
+<img src="https://img.shields.io/badge/99.9%25-Uptime_promedio-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
+<img src="https://img.shields.io/badge/50%25%2B-Ahorro_operativo_cliente-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
+<img src="https://img.shields.io/badge/250k%2B-Líneas_de_código-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
+
+<sub>Métricas agregadas de los proyectos entregados vía Visox</sub>
+
+</div>
+
+<br/>
+
 ```typescript
 interface TechLeader {
   readonly name: string;
@@ -88,6 +101,19 @@ const miguel: TechLeader = {
 };
 
 export default miguel; // siempre shippeando
+```
+
+<br/>
+
+## 🕒 Línea de tiempo
+
+```
+2025 ─┬─ May   GDG Ica (Organizer) · InnovaTech Ica (Lead Front-End)
+      ├─ Jun   Sistema de Gestión Académica — Tech Lead (7 devs, Scrum)
+      ├─ Ago   ASU Digital S.A.C. (Software Dev) · DeployGuru (FullStack Node.js)
+      ├─ Dic   LicitaYa — fundación como CEO & Tech Lead
+2026 ─┼─ May   Corporación Inocua — Consultor ERP (Odoo 18 Enterprise)
+      └─ Jul   LicitaYa finalista ISC 2026 (Tarapoto) · Go-Live Odoo en curso
 ```
 
 <br/>
@@ -225,12 +251,21 @@ Arquitectura desacoplada de Intranet y Matrícula: **Next.js** en frontend, ecos
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelVivar&theme=github_dark" height="150" alt="repos por lenguaje" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelVivar&theme=github_dark" height="150" alt="lenguaje con más commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelVivar&theme=github_dark&utcOffset=-5" height="150" alt="horario más productivo (UTC-5, Perú)" />
+</div>
+
+<div align="center">
   <img src="https://github-trophies.vercel.app/?username=MiguelVivar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 </div>
 
 <br/>
 
-> *"No solo escribo código; diseño arquitecturas que sobreviven al Go-Live."*
+> *"Si no puedo mostrarlo en el standup de mañana, no lo estoy construyendo bien."*
 > **— M. Vivar**
 
 <div align="center">

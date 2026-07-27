@@ -1,0 +1,81 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#0b0f0d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d68f"/>
+      <stop offset="100%" stop-color="#33e6ac"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#00d68f" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glowSpot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d68f" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00d68f" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glowSpot)"/>
+
+  <!-- eyebrow pill -->
+  <rect x="60" y="46" width="330" height="30" rx="15" fill="none" stroke="#00d68f" stroke-opacity="0.5" stroke-width="1.2"/>
+  <text x="225" y="66" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2"
+        fill="#33e6ac" text-anchor="middle">INGENIERÍA · ERP · IA · CLOUD</text>
+
+  <!-- wordmark -->
+  <text x="58" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="url(#accent)" filter="url(#glow)">M</text>
+  <text x="112" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="#f5f7f6">IGUEL</text>
+  <text x="410" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="url(#accent)" filter="url(#glow)">V</text>
+  <text x="450" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="#f5f7f6">IVAR</text>
+
+  <text x="60" y="188" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#b7c2bd">
+    CEO &amp; Tech Lead — LicitaYa · Co-Founder — Visox
+  </text>
+  <text x="60" y="214" font-family="'Courier New', monospace" font-size="14" fill="#7c8985">
+    Ingeniería de Sistemas · UNICA (Ica, Perú) · Tercio Superior
+  </text>
+
+  <!-- pill badges: mix solid / outline like Visox CTAs -->
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="60" y="240" width="168" height="38" rx="19" fill="url(#accent)"/>
+    <text x="144" y="264" fill="#04140d" text-anchor="middle">ERP &amp; GOVTECH</text>
+
+    <rect x="240" y="240" width="196" height="38" rx="19" fill="none" stroke="#00d68f" stroke-width="1.4"/>
+    <text x="338" y="264" fill="#dff7ee" text-anchor="middle">IA &amp; AUTOMATIZACIÓN</text>
+
+    <rect x="448" y="240" width="180" height="38" rx="19" fill="none" stroke="#00d68f" stroke-width="1.4"/>
+    <text x="538" y="264" fill="#dff7ee" text-anchor="middle">CLOUD &amp; DEVOPS</text>
+
+    <rect x="640" y="240" width="150" height="38" rx="19" fill="none" stroke="#00d68f" stroke-width="1.4"/>
+    <text x="715" y="264" fill="#dff7ee" text-anchor="middle">FULLSTACK</text>
+
+    <rect x="802" y="240" width="180" height="38" rx="19" fill="none" stroke="#00d68f" stroke-width="1.4"/>
+    <text x="892" y="264" fill="#dff7ee" text-anchor="middle">AWS CERTIFIED</text>
+  </g>
+
+  <!-- decorative circuit nodes -->
+  <g opacity="0.55">
+    <circle cx="1030" cy="60" r="2.5" fill="#33e6ac"/>
+    <circle cx="1090" cy="95" r="2.5" fill="#33e6ac"/>
+    <circle cx="1150" cy="55" r="2.5" fill="#33e6ac"/>
+    <circle cx="1060" cy="250" r="2.5" fill="#33e6ac"/>
+    <circle cx="1130" cy="280" r="2.5" fill="#33e6ac"/>
+    <path d="M1030,60 L1090,95 L1150,55" stroke="#33e6ac" stroke-width="1" fill="none"/>
+    <path d="M1060,250 L1130,280" stroke="#33e6ac" stroke-width="1" fill="none"/>
+  </g>
+
+  <text x="1140" y="300" font-family="Arial, sans-serif" font-size="12" fill="#5a6a64" text-anchor="end">
+    miguelvivarfarfan@gmail.com
+  </text>
+</svg>

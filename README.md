@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Miguel Vivar Farfán — CEO & Tech Lead" />
+<img src="banner.svg" width="100%" alt="Miguel Vivar Farfán — Ingeniero de Software" />
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=760&lines=Shipping+Odoo+18+Enterprise+en+Corporaci%C3%B3n+Inocua;Escalando+LicitaYa+tras+el+ISC+2026+Tarapoto;Arquitecturas+FullStack+%2B+Microservicios+%2B+IA;AWS+Certified+%7C+K8s+%7C+LLM+Agents+%7C+MCP;Menos+reuniones%2C+m%C3%A1s+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=760&lines=Arquitecturas+FullStack+%2B+Microservicios+%2B+IA;AWS+Certified+%7C+Kubernetes+%7C+LLM+Agents+%7C+MCP;Construyendo+SaaS%2C+ERPs+y+sistemas+distribuidos;Menos+reuniones%2C+m%C3%A1s+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,8 +18,8 @@
 
 <p>
   <a href="https://vivar.visox.tech/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=00D68F" /></a>
-  <a href="https://visox.tech/" target="_blank"><img src="https://img.shields.io/badge/Visox-000000?style=for-the-badge&logo=vercel&logoColor=00D68F" /></a>
   <a href="https://linkedin.com/in/miguel-vivar-farfan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D68F" /></a>
+  <a href="https://instagram.com/vivarf_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00D68F" /></a>
   <a href="mailto:miguelvivarfarfan@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00D68F" /></a>
 </p>
 
@@ -32,42 +32,19 @@
 | | |
 |---|---|
 | 🎓 **Educación** | Ingeniería de Sistemas — UNICA (Ica, Perú) · Tercio Superior |
-| 🏛️ **CEO & Tech Lead** | [LicitaYa](https://vivar.visox.tech/) — SaaS B2B de automatización para SEACE |
-| ⚙️ **Co-Founder & Tech Lead** | Visox — consultoría de software e ingeniería de sistemas |
-| 🧩 **Consultor ERP** | Corporación Inocua — Odoo 18 Enterprise (CRM, Ventas, Compras) |
-| 🤖 **Software Developer** | ASU Digital S.A.C. — pipelines de IA Generativa / MinIO / K8s |
 | 🌐 **Organizer** | GDG Ica — Google Developer Groups |
 | 📜 **Certificaciones** | AWS Certified · DeepTech Bootcamp (individual, top score) |
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/10%2B-Proyectos_entregados-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
-<img src="https://img.shields.io/badge/99.9%25-Uptime_promedio-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
-<img src="https://img.shields.io/badge/50%25%2B-Ahorro_operativo_cliente-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
-<img src="https://img.shields.io/badge/250k%2B-Líneas_de_código-000000?style=for-the-badge&labelColor=00D68F&logoColor=000000" />
-
-<sub>Métricas agregadas de los proyectos entregados vía Visox</sub>
-
-</div>
+| 🎯 **Enfoque** | Arquitecturas FullStack, ERP, IA aplicada y Cloud-native |
 
 <br/>
 
 ```typescript
-interface TechLeader {
+interface Engineer {
   readonly name: string;
   location: string;
   education: string;
-  roles: Role[];
-  currentSprint: string[];
+  interests: string[];
   stack: TechStack;
-}
-
-interface Role {
-  title: string;
-  org: string;
-  since: `${number}-${number}`;
 }
 
 type TechStack = Record<
@@ -75,20 +52,14 @@ type TechStack = Record<
   string[]
 >;
 
-const miguel: TechLeader = {
+const miguel: Engineer = {
   name: "Miguel Alonso Vivar Farfán",
   location: "Ica, Perú 🇵🇪",
   education: "Ingeniería de Sistemas — UNICA",
-  roles: [
-    { title: "CEO & Tech Lead", org: "LicitaYa",           since: "2025-12" },
-    { title: "ERP Consultant",  org: "Corporación Inocua", since: "2026-05" },
-    { title: "Software Dev",    org: "ASU Digital S.A.C.", since: "2025-08" },
-    { title: "Organizer",       org: "GDG Ica",            since: "2025-05" },
-  ],
-  currentSprint: [
-    "🚀 Escalando LicitaYa post-ISC 2026 Tarapoto",
-    "🧩 Cerrando Go-Live de Odoo 18 Enterprise (Corporación Inocua)",
-    "🤖 Optimizando pipelines de IA generativa (DeepSeek + Whisper) en ASU Digital",
+  interests: [
+    "🏛️  Arquitecturas ERP y sistemas para el sector público",
+    "🤖  IA generativa aplicada a producto",
+    "☁️  Infraestructura cloud-native y microservicios",
   ],
   stack: {
     languages: ["TypeScript", "JavaScript", "Python", "Java", "SQL"],
@@ -100,101 +71,29 @@ const miguel: TechLeader = {
   },
 };
 
-export default miguel; // siempre shippeando
+export default miguel;
 ```
 
 <br/>
 
-## 🕒 Línea de tiempo
-
-```
-2025 ─┬─ May   GDG Ica (Organizer) · InnovaTech Ica (Lead Front-End)
-      ├─ Jun   Sistema de Gestión Académica — Tech Lead (7 devs, Scrum)
-      ├─ Ago   ASU Digital S.A.C. (Software Dev) · DeployGuru (FullStack Node.js)
-      ├─ Dic   LicitaYa — fundación como CEO & Tech Lead
-2026 ─┼─ May   Corporación Inocua — Consultor ERP (Odoo 18 Enterprise)
-      └─ Jul   LicitaYa finalista ISC 2026 (Tarapoto) · Go-Live Odoo en curso
-```
-
-<br/>
-
-## 🧭 Ejecutando en producción
+## 🚀 Proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ LicitaYa — CEO & Tech Lead
-`Dic 2025 — Actualidad`
-Plataforma SaaS B2B que automatiza la generación de anexos legales para compras públicas (**SEACE**), reduciendo el riesgo de descalificación para MYPES. Arquitectura FullStack con **Next.js + TypeScript** en frontend y **Node.js/Express + Prisma ORM** en backend, orquestada en **Docker** y **Kubernetes (k3s)**. Fase Beta con **15 empresas** activas en la región y **finalista en el ISC 2026 (Tarapoto)**.
-
-### 🧩 Corporación Inocua — Consultor ERP
-`May 2026 — Actualidad`
-Auditoría técnica y reingeniería del módulo **CRM en Odoo 18 Enterprise** bajo **Gap Analysis** y **BPM** (flujos AS-IS/TO-BE), eliminando cotizaciones huérfanas y garantizando trazabilidad del pipeline de ventas. Activación de **AI Lead Scoring**, integración multicanal (WhatsApp Corporativo) y dashboards de KPIs (Win Rate, Forecasting) sobre un roadmap ágil de 4 semanas.
+### 🏛️ LicitaYa
+SaaS B2B que automatiza la generación de anexos legales para compras públicas (**SEACE**), reduciendo el riesgo de descalificación para MYPES. Arquitectura FullStack con **Next.js + TypeScript** en frontend y **Node.js/Express + Prisma ORM** en backend, orquestada en **Docker** y **Kubernetes (k3s)**. Fase Beta con **15 empresas** activas en la región y **finalista en el ISC 2026 (Tarapoto)**.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ ASU Digital S.A.C. — Desarrollador de Software
-`Ago 2025 — Actualidad`
-Microservicios con **FastAPI (Python)** desplegados en **Docker/Kubernetes** sobre servidor GPU dedicado (CUDA 12.4 + cuDNN 9). Pipelines de **IA Generativa** (DeepSeek + Whisper/Faster-Whisper) para análisis y transcripción automatizada, almacenamiento en **MinIO**, control de acceso vía **Redis**, y automatización end-to-end con **n8n** + bots de Discord.
-
-### 🌐 GDG Ica — Organizer & Community Ops
-`May 2025 — Actualidad`
-Desarrollo de la web oficial con **Astro + TailwindCSS + TypeScript** bajo prácticas **Scrum**, documentación técnica y arquitectura modular orientada a mantenibilidad a largo plazo.
+### 🎓 Sistema de Gestión Académica
+Arquitectura desacoplada de Intranet y Matrícula: **Next.js** en frontend, ecosistema de microservicios con **Spring Boot 3.5 + PostgreSQL** en backend, seguridad con **JWT + RBAC**, y CI/CD sobre **Railway** con despliegues continuos sin downtime. Escuadrón ágil de **7 desarrolladores** bajo Scrum.
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🚀 Proyecto insignia
-
-<table>
-<tr>
-<td width="100%">
-
-### 🎓 Sistema de Gestión Académica por Microservicios — Tech Lead & FullStack Architect
-`Jun 2025 — Actualidad`
-
-Arquitectura desacoplada de Intranet y Matrícula: **Next.js** en frontend, ecosistema de microservicios con **Spring Boot 3.5 + PostgreSQL** en backend, seguridad con **JWT + RBAC**, y CI/CD sobre **Railway** con despliegues continuos sin downtime. Lideré un escuadrón ágil de **7 desarrolladores** bajo Scrum, definiendo estándares de code review y arquitectura de soluciones.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📜 Trayectoria
-
-<table>
-<tr><td width="70%"><b>DeployGuru</b> — FullStack Node.js</td><td width="30%"><code>Ago 2025 – Oct 2025</code></td></tr>
-<tr><td colspan="2">Integración IMAP para ingestión de correos del sector asegurador, clasificación automática de eventos críticos y scraping resiliente con <b>Puppeteer</b> para enriquecimiento de expedientes (data enrichment).</td></tr>
-<tr><td width="70%"><b>InnovaTech Ica</b> — Lead Front-End Engineer</td><td width="30%"><code>May 2025 – Actualidad</code></td></tr>
-<tr><td colspan="2">Landing page del evento con <b>Astro + TailwindCSS</b>, despliegue continuo en GitHub Pages y estrategia visual responsiva coordinada con marketing.</td></tr>
-</table>
-
-<br/>
-
-## 🎭 Fuera del código
-
-<details>
-<summary><b>Click para descomprimir 🗜️</b></summary>
-<br/>
-
-```yaml
-debugging_a_las_3am: "café ☕ nivel crítico"
-sonido_favorito: "npm run build sin errores a la primera"
-lenguaje_natural: "TypeScript > inglés, discutible"
-frase_prohibida: "en mi máquina sí funciona"
-last_words_famosas: "esto no debería romper producción"
-easter_egg: "si llegaste hasta aquí, ya casi calificas para el equipo 👀"
-```
-
-<sub>PD: si el standup dura más de 15 min, algo está mal arquitecturado (el standup o el sistema).</sub>
-
-</details>
 
 <br/>
 
@@ -279,7 +178,6 @@ easter_egg: "si llegaste hasta aquí, ya casi calificas para el equipo 👀"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelVivar/MiguelVivar/output/snake-light.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MiguelVivar/MiguelVivar/output/snake-dark.svg" width="100%" />
   </picture>
-  <br/><sub>🐍 Cada commit, un segmento. Se genera solo, todos los días a las 00:00 (Perú).</sub>
 </div>
 
 <div align="center">
@@ -297,8 +195,7 @@ easter_egg: "si llegaste hasta aquí, ya casi calificas para el equipo 👀"
 
 <br/>
 
-> *"Si no puedo mostrarlo en el standup de mañana, no lo estoy construyendo bien."*
-> **— M. Vivar**
+> *"Código legible hoy es menos deuda técnica mañana."*
 
 <div align="center">
 

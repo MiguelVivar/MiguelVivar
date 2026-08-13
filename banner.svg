@@ -1,4 +1,14 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse { 0%,100% { opacity:0.18; } 50% { opacity:0.32; } }
+    @keyframes blink { 0%,45% { opacity:1; } 50%,95% { opacity:0; } 100% { opacity:1; } }
+    @keyframes drift { 0% { transform:translate(0,0); } 50% { transform:translate(-6px,5px); } 100% { transform:translate(0,0); } }
+    @keyframes dash { to { stroke-dashoffset:0; } }
+    #glowSpotRect { animation: pulse 4s ease-in-out infinite; }
+    #cursor { animation: blink 1.1s step-end infinite; }
+    #nodes { animation: drift 6s ease-in-out infinite; }
+    #circuitPaths path { stroke-dasharray:120; stroke-dashoffset:120; animation: dash 2.4s ease-out forwards 0.4s; }
+  </style>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#050505"/>
@@ -26,7 +36,7 @@
 
   <rect width="1200" height="320" fill="url(#bg)"/>
   <rect width="1200" height="320" fill="url(#grid)"/>
-  <rect width="1200" height="320" fill="url(#glowSpot)"/>
+  <rect id="glowSpotRect" width="1200" height="320" fill="url(#glowSpot)"/>
 
   <!-- eyebrow pill -->
   <rect x="60" y="46" width="330" height="30" rx="15" fill="none" stroke="#00d68f" stroke-opacity="0.5" stroke-width="1.2"/>
@@ -38,6 +48,7 @@
   <text x="112" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="#f5f7f6">IGUEL</text>
   <text x="410" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="url(#accent)" filter="url(#glow)">V</text>
   <text x="450" y="150" font-family="Arial, sans-serif" font-size="66" font-weight="900" fill="#f5f7f6">IVAR</text>
+  <rect id="cursor" x="618" y="102" width="8" height="52" fill="#33e6ac"/>
 
   <text x="60" y="188" font-family="Arial, sans-serif" font-size="21" font-weight="500" fill="#b7c2bd">
     CEO &amp; Tech Lead — LicitaYa · Co-Founder — Visox
@@ -65,14 +76,16 @@
   </g>
 
   <!-- decorative circuit nodes -->
-  <g opacity="0.55">
+  <g id="nodes" opacity="0.55">
     <circle cx="1030" cy="60" r="2.5" fill="#33e6ac"/>
     <circle cx="1090" cy="95" r="2.5" fill="#33e6ac"/>
     <circle cx="1150" cy="55" r="2.5" fill="#33e6ac"/>
     <circle cx="1060" cy="250" r="2.5" fill="#33e6ac"/>
     <circle cx="1130" cy="280" r="2.5" fill="#33e6ac"/>
-    <path d="M1030,60 L1090,95 L1150,55" stroke="#33e6ac" stroke-width="1" fill="none"/>
-    <path d="M1060,250 L1130,280" stroke="#33e6ac" stroke-width="1" fill="none"/>
+    <g id="circuitPaths">
+      <path d="M1030,60 L1090,95 L1150,55" stroke="#33e6ac" stroke-width="1" fill="none"/>
+      <path d="M1060,250 L1130,280" stroke="#33e6ac" stroke-width="1" fill="none"/>
+    </g>
   </g>
 
   <text x="1140" y="300" font-family="Arial, sans-serif" font-size="12" fill="#5a6a64" text-anchor="end">

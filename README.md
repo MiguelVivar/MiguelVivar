@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=760&lines=Shipping+Odoo+18+Enterprise+en+Corporaci%C3%B3n+Inocua;Escalando+LicitaYa+tras+el+ISC+2026+Tarapoto;Arquitecturas+FullStack+%2B+Microservicios+%2B+IA;AWS+Certified+%7C+K8s+%7C+LLM+Agents+%7C+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=760&lines=Shipping+Odoo+18+Enterprise+en+Corporaci%C3%B3n+Inocua;Escalando+LicitaYa+tras+el+ISC+2026+Tarapoto;Arquitecturas+FullStack+%2B+Microservicios+%2B+IA;AWS+Certified+%7C+K8s+%7C+LLM+Agents+%7C+MCP;Menos+reuniones%2C+m%C3%A1s+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -177,6 +177,27 @@ Arquitectura desacoplada de Intranet y Matrícula: **Next.js** en frontend, ecos
 
 <br/>
 
+## 🎭 Fuera del código
+
+<details>
+<summary><b>Click para descomprimir 🗜️</b></summary>
+<br/>
+
+```yaml
+debugging_a_las_3am: "café ☕ nivel crítico"
+sonido_favorito: "npm run build sin errores a la primera"
+lenguaje_natural: "TypeScript > inglés, discutible"
+frase_prohibida: "en mi máquina sí funciona"
+last_words_famosas: "esto no debería romper producción"
+easter_egg: "si llegaste hasta aquí, ya casi calificas para el equipo 👀"
+```
+
+<sub>PD: si el standup dura más de 15 min, algo está mal arquitecturado (el standup o el sistema).</sub>
+
+</details>
+
+<br/>
+
 ## 📌 Repositorios destacados
 
 <div align="center">
@@ -248,6 +269,17 @@ Arquitectura desacoplada de Intranet y Matrícula: **Next.js** en frontend, ecos
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelVivar&theme=react-dark&bg_color=0A0A0A&color=00D68F&line=00D68F&point=ffffff&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelVivar/MiguelVivar/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelVivar/MiguelVivar/output/snake-light.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MiguelVivar/MiguelVivar/output/snake-dark.svg" width="100%" />
+  </picture>
+  <br/><sub>🐍 Cada commit, un segmento. Se genera solo, todos los días a las 00:00 (Perú).</sub>
 </div>
 
 <div align="center">
